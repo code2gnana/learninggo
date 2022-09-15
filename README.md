@@ -7,3 +7,4 @@ Repo for Learning go
 
 ## Additional references
 - https://pkg.go.dev
+- https://go.dev/doc/code
