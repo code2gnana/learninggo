@@ -1,4 +1,4 @@
-package main
+package shapes
 
 func main() {
 	s := square{sideLength: 34}
